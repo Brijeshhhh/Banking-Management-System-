@@ -31,14 +31,11 @@ The Bank Management System is a Java-based application designed to facilitate ba
 **Contributing:**
 Contributions to the Bank Management System project are welcome! If you have any ideas for improvements or new features, feel free to fork the repository, make your changes, and submit a pull request.
 
-**License:**
-This project is licensed under the no License. See the LICENSE file for more details.
-
 **Acknowledgments:**
 We would like to thank the contributors and users who have helped improve and maintain the Bank Management System project.
 
 **Done by:** 
-Brijesh and team in CDC projects for EVOIRA's training program.
+Brijesh
 
 **Note:**
 This application is intended for educational purposes and may require additional features and security measures for production use.
